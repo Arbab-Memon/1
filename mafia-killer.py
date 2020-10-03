@@ -125,6 +125,22 @@ def menu():
     jaalan('\x1b[1;91m[\x1b[1;92m14\x1b[1;91m]  \x1b[1;90m11 DIGIT CRACKER        \x1b[1;91m[\x1b[1;92m18\x1b[1;91m]  \x1b[1;90mDEATH MAIL GRABBER')
     print
     print
+    print '       \x1b[4;96mPAKISTANI MENU\x1b[0;37;40m                 \x1b[4;96mLOCAL MENU\x1b[0;37;40m'
+    print
+    jaalan('\x1b[1;91m[\x1b[1;92m1\x1b[1;91m]  \x1b[1;93mINDIAN 6 DIGIT CLONE     \x1b[1;91m[\x1b[1;92m5\x1b[1;91m]  \x1b[1;93mUSA 6 DIGIT CLONE')
+    jaalan('\x1b[1;91m[\x1b[1;92m2\x1b[1;91m]  \x1b[1;93mINDIAN 7 DIGIT CLONE     \x1b[1;91m[\x1b[1;92m6\x1b[1;91m]  \x1b[1;93mITALY 6 DIGIT CLONE')
+    jaalan('\x1b[1;91m[\x1b[1;92m3\x1b[1;91m]  \x1b[1;93mFACEBOOK AUTO REPORT     \x1b[1;91m[\x1b[1;92m7\x1b[1;91m]  \x1b[1;93mSPAIN 6 DIGIT CLONE')
+    jaalan('\x1b[1;91m[\x1b[1;92m4\x1b[1;91m]  \x1b[1;93mFRIEND LIST ID HACK      \x1b[1;91m[\x1b[1;92m8\x1b[1;91m]  \x1b[1;93mPOLAND 6 DIGIT CLONE')
+    jaalan('\x1b[1;91m[\x1b[1;92m9\x1b[1;91m]  \x1b[1;93mTARGET ID HACK {BRUTE} ')
+    print
+    print '     \x1b[4;96mBANGLADESHI MENU\x1b[0;37;40m                \x1b[4;96mMORE TOOLS\x1b[0;37;40m'
+    print
+    jaalan('\x1b[1;91m[\x1b[1;92m11\x1b[1;91m]  \x1b[1;90m6 DIGIT CRACKER         \x1b[1;91m[\x1b[1;92m15\x1b[1;91m]  \x1b[1;90mEMAIL CRACKER')
+    jaalan('\x1b[1;91m[\x1b[1;92m12\x1b[1;91m]  \x1b[1;90m7 DIGIT CRACKER         \x1b[1;91m[\x1b[1;92m16\x1b[1;91m]  \x1b[1;90mSMS CALL BOMBER')
+    jaalan('\x1b[1;91m[\x1b[1;92m13\x1b[1;91m]  \x1b[1;90m8 DIGIT CRACKER         \x1b[1;91m[\x1b[1;92m17\x1b[1;91m]  \x1b[1;90mWEBSITE DEFACEMENT')
+    jaalan('\x1b[1;91m[\x1b[1;92m14\x1b[1;91m]  \x1b[1;90m11 DIGIT CRACKER        \x1b[1;91m[\x1b[1;92m18\x1b[1;91m]  \x1b[1;90mDEATH MAIL GRABBER')
+    print
+    print
     jalan('    \x1b[1;91m[\x1b[1;93m20\x1b[1;91m] \x1b[1;92mUPDATE \x1b[1;91m[\x1b[1;93m21\x1b[1;91m] \x1b[1;92mFOLLOW \x1b[1;91m[\x1b[1;93m22\x1b[1;91m] \x1b[1;92mCONTACT \x1b[1;91m[\x1b[1;93m00\x1b[1;91m] \x1b[1;92mEXIT')
     action()
  
