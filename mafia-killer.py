@@ -75,7 +75,7 @@ def tik():
  
 def lodhirt():
     lodhirt = [
-     'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS', '      ', 'TEAM V-VIRUS\n']
+     'CYBER-HACKER', '      ', 'CYBER-HACKER', '      ', 'ARBAB-ALI', '      ', 'ARBAB-ALI', '      ', 'RIGHT-HANDED', '      ', 'PLAYER-1.0268', '      ', 'TEAM-CYBER', '      ', 'TEAM-CYBER', '      ', 'ARBAB-MEMON', '      ', 'TEAM CYBER', 'CYBER-GANGE', '      ', 'LEADER', '      ', 'ARBAB-ALI', '      ', 'TEAM-1.0286', '      ', 'CYBER-PLAYER', '      ', 'GANGE-LEADER', '      ', 'BRANDED', '      ', 'ARBAB-MEMON', '      ', 'ARBAB-ALI', '      ', 'ARBAB-ALI\n']
     for o in lodhirt:
         print '\r\x1b[1;94m                     \x1b[1;92m' + o,
         sys.stdout.flush()
